@@ -1,7 +1,7 @@
 #include <LEDManager.h>
 
 LEDManager pinNine(9);
-LEDManager pinTen(13);
+LEDManager pinTen(10);
 
 void setup() {
 	//pattern, maximum brightness (PWM value), cycle time

@@ -59,3 +59,4 @@ void LEDManager::update(unsigned long currentTime){
 
 	previousTime = currentTime;
 }
+
